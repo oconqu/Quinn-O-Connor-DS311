@@ -27,7 +27,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
     </tr> 
 </table>
 
-## Project 2 Title
+## Project 2 United States Oil Imports
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
