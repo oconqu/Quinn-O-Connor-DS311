@@ -19,7 +19,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            In this project, I attempted to recreate a visual with my own code. <a href="./Project 1/README.md">Learn more</a>
+            In this project, I attempted to recreate a visual with my own code. Once I was able to do that, I put my own spin on things and conveyed the same data differently.<a href="./Project 1/README.md">Learn more</a>
             <br><br>
             <i>Tools used: Python, Pandas, Plotly,</i>
             </p>
