@@ -55,7 +55,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
             <p>
             For this project, I made an infographic that illustrates Nancy Pelosi's investment portfolio.<a href="./Project 3/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Canva, Recraft</i>
+            <i>Tools used: Canva, Recraft, Python, Plotly</i>
             </p>
         </td>
     </tr> 
