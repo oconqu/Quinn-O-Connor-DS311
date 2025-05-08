@@ -19,10 +19,9 @@ To learn more about me, you can visit my [personal website](your_web_address), m
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
-            Briefly describe the project, the motivation, and/or the goal.
-            This project explores [brief description of the project]. I was inspired by [refer to inspiration]. The goal was to [objective of the project]. ... <a href="./Project 1/README.md">Learn more</a>
+            In this project, I attempted to recreate a visual with my own code. <a href="./Project 1/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, Pandas, Plotly, Canva</i>
+            <i>Tools used: Python, Pandas, Plotly,</i>
             </p>
         </td>
     </tr> 
