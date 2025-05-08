@@ -32,14 +32,14 @@ To learn more about me, you can visit my [personal website](your_web_address), m
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
         <td style="padding: 10px; width:25%; border: none;"> 
-            <img src="./Images/proj2.png"  alt="2" >
+            <img src=""  alt="2" >
         </td>
         <td style="padding:10px; width:75%; border: none;" valign = "top">
             <p>
             Briefly describe Project 2<br><br>
             For this project, I used Canva to make an infographic that shows the timeline of United States Oil imports. I also included aspects of Python within my design. <a href="./Project 2/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, Pandas, Matplotlib</i>
+            <i>Tools used: Python, Pandas, Matplotlib, Canva </i>
             </p>
         </td>
     </tr> 
