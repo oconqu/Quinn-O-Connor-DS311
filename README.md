@@ -1,9 +1,7 @@
 # Data Visualization Portfolio
 
 ## About Me
-Use this space to introduce yourself to an audience (think about your target audience). Tell them about who you are, your skills, your strengths, your interests, and career aspirations.
-
-Welcome to my data visualization portfolio! Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
+Attached to this portfolio are my projects from DS311. I am new to data visualization, and these projects are representative of the early stages of my learning.
 
 <!--Include links to documents or sites that may be useful to your target audience: website, LinkedIn, your cv/resume, github, a community you contribute to, etc -->
 
@@ -12,7 +10,7 @@ To learn more about me, you can visit my [personal website](your_web_address), m
 
 ---
 
-## Project 1 Title
+## Project 1 Recreate/Remix
 
 <table align="right | left" style = "border-collapse: collapse; border: none;">
     <tr style = "border: none;">
